@@ -6,5 +6,5 @@ We used Netbeans to create this project. It was coded in Java.
 
 The team 
 - [Oisin Murphy](https://github.com/Slamacy)
-- [Kerrie Callaghan](https://www.facebook.com/kerrie.callaghan.10)
+- [Kerrie Callaghan](https://gitlab.com/kcallaghan)
 - [Patricia Bere](https://www.facebook.com/MidgetAssassin)
